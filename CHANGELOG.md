@@ -18,4 +18,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed old instance creation into something lighter.
 
-[1.0.0]: insert link...
+[1.0.0]: https://github.com/TrainFan1804/logger/releases/tag/1.0.0
